@@ -1,4 +1,4 @@
-# supertokens-poc
+# docker-compose-supertokens
 
 This is a PoC using authentication with [SuperTokens](https://supertokens.com/).
 
